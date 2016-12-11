@@ -1,0 +1,30 @@
+body{
+    background: url("../images/header.png") repeat-x;
+}
+header{
+    height:64px;
+}
+header .wrap{
+    width: 990px;
+    height: 64px;
+    margin:0 auto;
+    overflow: hidden;
+    background: url("../images/back_header.png") no-repeat;
+}
+.wrap{
+    width: 990px;
+    margin:0 auto;
+}
+.logo{
+    height: 64px;
+}
+.navbar{
+    min-height: 33px;
+    border:none;
+}
+.navbar-default{
+    background: none;
+}
+.navbar-default .navbar-nav li a{
+
+}
